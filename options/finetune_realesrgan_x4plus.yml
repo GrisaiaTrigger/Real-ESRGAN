@@ -39,7 +39,7 @@ datasets:
     name: DF2K+OST
     type: RealESRGANDataset
     dataroot_gt: datasets/
-    meta_info: datasets/meta_info/meta_info.txt
+    meta_info: datasets/meta_info.txt
     io_backend:
       type: disk
 
